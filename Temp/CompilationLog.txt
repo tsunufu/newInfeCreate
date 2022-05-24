@@ -1,0 +1,24 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dafd7d4bdc18c4e9885c9811abc65113
+# Starting compiling UnityEngine.UI.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-87959717986654391b9958496bcc0ca9
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-48193d0b4e15848b38f1e6ce98604dc5
+# Starting compiling UnityEditor.UI.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b6f5cbac13fbd44c8960e005c22957f9
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2b085f6d403754e089f34e03d0955cfc
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-388455a38b3f14e4a96af0e06fc1b90b
+# Starting compiling Unity.Timeline.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-41adfcc68d1a74c1dab52783bc237a8c
+# Starting compiling Unity.TextMeshPro.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9444358b3f8e148049c9cd450e764651
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-30b1bcd23430c4f959e0cc12bbe163bc
+# Starting compiling Unity.Rider.Editor.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c982ff6a22e824e7da3a4e926b802a86
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5f2bcf453e0aa40b982314253f6e0492
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/ryo/2020.2.7f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-573e8abe5b1334bd9b5e633f01f1ae49
